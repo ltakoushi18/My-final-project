@@ -69,3 +69,19 @@ a {
 .city-weather-details strong {
   color: #ef94cf;
 }
+.city-weather-container {
+  display: flex;
+}
+
+.city-weather-emoji {
+  font-size: 45px;
+  margin-top: 20px;
+}
+.city-weather-number {
+  font-size: 85px;
+  margin-left: 12px;
+}
+.city-weather-degrees {
+  margin-top: 17px;
+  font-size: 25px;
+}
