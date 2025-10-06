@@ -1,0 +1,12 @@
+body {
+  font-family: "Alan Sans", sans-serif;
+}
+
+.container {
+  background-color: white;
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 30px;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 10px;
+}
