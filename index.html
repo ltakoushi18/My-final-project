@@ -15,11 +15,12 @@
   <body>
     <div class="container">
       <header>
-        <form class="search-bar">
+        <form class="search-bar" id="search-bar">
           <input
             type="search"
             placeholder="Enter a city..."
             required
+            id="city-search"
             class="search-bar-input"
           />
           <input type="submit" value="Search" class="search-bar-button" />
@@ -28,7 +29,7 @@
       <main>
         <div class="current-weather">
           <div>
-            <h1 class="city-weather">Paris</h1>
+            <h1 class="city-weather" id="city-chosen">Paris</h1>
             <p class="city-weather-details">
               Tuesday 14:49, scattered clouds
               <br />
@@ -60,5 +61,6 @@
         >
       </footer>
     </div>
+    <script src="src/java.js"></script>
   </body>
 </html>
