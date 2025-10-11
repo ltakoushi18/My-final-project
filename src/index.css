@@ -74,14 +74,14 @@ a {
 }
 
 .city-weather-emoji {
-  font-size: 45px;
-  margin-top: 20px;
+  width: 100px;
+  height: 100px;
 }
 .city-weather-number {
   font-size: 85px;
-  margin-left: 12px;
+  line-height: 100px;
 }
 .city-weather-degrees {
-  margin-top: 17px;
+  margin-top: 14px;
   font-size: 25px;
 }
