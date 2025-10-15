@@ -100,8 +100,10 @@ a {
 }
 
 .forecast-emoji {
-  font-size: 30px;
-  text-align: center;
+  width: 77px;
+  height: 77px;
+  display: block;
+  margin: 0 auto;
 }
 .forecast-degrees {
   text-align: center;
