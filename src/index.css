@@ -46,7 +46,7 @@ a {
   border: none;
   border-radius: 8px;
   color: #ffff;
-  margin-left: 4px;
+  margin-left: 5px;
   font-size: 15px;
 }
 .current-weather {
@@ -82,8 +82,9 @@ a {
   line-height: 100px;
 }
 .city-weather-degrees {
-  margin-top: 14px;
+  margin-top: 12px;
   font-size: 25px;
+  margin-right: 5px;
 }
 
 .weather-forecast {
